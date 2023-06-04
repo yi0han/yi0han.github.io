@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yi0han.GitHub.io</id>
-    <title>Gridea</title>
-    <updated>2023-05-09T13:15:49.251Z</updated>
+    <title>遗憾的温柔</title>
+    <updated>2023-06-04T14:17:20.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yi0han.GitHub.io"/>
     <link rel="self" href="https://yi0han.GitHub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://yi0han.GitHub.io/images/avatar.png</logo>
     <icon>https://yi0han.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2023, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[【PC】缘之空]]></title>
-        <id>https://yi0han.GitHub.io/post/pc-yuan-zhi-kong/</id>
-        <link href="https://yi0han.GitHub.io/post/pc-yuan-zhi-kong/">
-        </link>
-        <updated>2023-05-09T13:15:21.000Z</updated>
-        <content type="html"><![CDATA[<p>。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。<br>
-。</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2023, 遗憾的温柔</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yi0han.GitHub.io/post/hello-gridea/</id>
